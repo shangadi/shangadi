@@ -1,8 +1,8 @@
-#  🧑‍💻 About Me:
+#  🧑‍💻 Me:
 "I'm currently working on enhancing my skills in MLOps by integrating machine learning workflows into DevOps practices<br>"I'm looking to collaborate on projects that bridge the gap between DevOps and machine learning<br>Real-world case studies of successful MLOps implementations in enterprise environments<br>Deep learning techniques using TensorFlow, PyTorch, and Keras<br>DevOps best practices and how they apply to ML workflows. IaC using Terraform, especially for GCP & AWS resources<br>"Fun fact: I once set up a Raspberry Pi-powered smart device in my home that displays weather updates, my calendar, and even real-time analysis of my pickleball serve technique! It combines my love for tech tinkering, sports, and practical applications of machine learning
 
 
-## 🌐 Socials Media
+## 🌐 Professional Connections:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/varma414) 
 
 # 💻 Tech Stack:
